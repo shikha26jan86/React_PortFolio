@@ -1,0 +1,194 @@
+
+*{
+    margin: 0;padding:0;
+}
+body{
+    background-color: black;
+    color: whitesmoke;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+nav{background-color: black;color: whitesmoke;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 50px;
+    background-color: gray;
+}
+nav ul{
+    display: flex;
+    justify-content: center;
+}
+nav ul li{
+    list-style: none;
+    margin: 0 23px;
+}
+nav ul li a{color: black;font-weight: bolder;
+    text-decoration: none;
+    margin: 0 10px;
+}
+nav ul li a:hover{
+    color: lavender;font-size: 1.04rem;
+}
+main hr{border: 0;background-color: purple;height: 1.2px;width:60px 84px ;}
+.left{font-size:22px;margin-left: 15px;color: black;font-weight: bolder;padding-left: 50px;}
+.firstSection{display: flex;justify-content: space-around;margin: 80px 0;}
+.firstSection> div{width: 30%;}
+.leftSection{font-size: 25px;margin: 40px 0;}
+.leftSection .btn{padding: 12px;background-color: purple;color: white;border: 2px solid white;border-radius:6px;font-size: 10px;cursor: pointer;}
+.rightSection{width: 0%;height:50px 0 ;}
+rightSection.img{width: 80%;}
+.purple{color: rgb(0, 32, 128);}
+#element{color: rgb(228, 30, 30);}
+.SecondSection{max-width:80vw;margin: auto;height: 80vh;}
+.SecondSection h1{font-size: 1.5rem; }
+.text_gray{color: gray;}
+.SecondSection h1{font-size: 1.9rem;}
+.SecondSection .box{background-color: white;width: 80vw;height: 2px;margin: 56px 0;display: flex;}
+.SecondSection .verticle{height:70px;width: 2px;background-color: whitesmoke;margin: 0 150px;}
+.img_top{width: 50px;position: relative;top:-32px;left: -9px;}
+.vertical_tital{position: relative;top:40px;left:1px;width: 200px;}
+.vertical_desc{position: relative;top:50px;color: gray;width: 200px;font-size: 9px;}
+footer{background-color: black;}
+.footer{display: flex;margin: 23px 122px;display: flex;justify-content: space-evenly;}
+.footer ul{list-style: none;}
+.footer>div{width: 223px;}
+footer .footer_rights{text-align: center;color: gray;padding: 12px 0;}
+
+/* === */
+        *{
+    margin: 0;padding:0;
+}
+body{
+    background-color: black;
+    color: whitesmoke;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+        nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 50px;
+    background-color: gray;
+}
+nav ul{
+    display: flex;
+    justify-content: center;
+}
+nav ul li{
+    list-style: none;
+    margin: 0 23px;
+}
+
+nav ul li a{color: black;font-weight: bolder;
+    text-decoration: none;
+    margin: 0 10px;
+}
+nav ul li a:hover{
+    color: lavender;font-size: 1.04rem;
+}
+.left{font-size:22px;margin-left: 15px;color: black;font-weight: bolder;padding-left: 50px;}
+   
+
+        *{
+    margin: 0;padding:0;
+}
+body{
+    background-color: black;
+    color: whitesmoke;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+        nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 50px;
+    background-color: gray;
+}
+nav ul{
+    display: flex;
+    justify-content: center;
+}
+nav ul li{
+    list-style: none;
+    margin: 0 23px;
+}
+
+nav ul li a{color: black;font-weight: bolder;
+    text-decoration: none;
+    margin: 0 10px;
+}
+nav ul li a:hover{
+    color: lavender;font-size: 1.04rem;
+}
+.left{font-size:22px;margin-left: 15px;color: black;font-weight: bolder;padding-left: 50px;}
+    
+*{
+    margin: 0;padding:0;
+}
+body{
+    background-color: black;
+    color: whitesmoke;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+        nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 50px;
+    background-color: gray;
+}
+nav ul{
+    display: flex;
+    justify-content: center;
+}
+nav ul li{
+    list-style: none;
+    margin: 0 23px;
+}
+
+nav ul li a{color: black;font-weight: bolder;
+    text-decoration: none;
+    margin: 0 10px;
+}
+nav ul li a:hover{
+    color: lavender;font-size: 1.04rem;
+}
+.left{font-size:22px;margin-left: 15px;color: black;font-weight: bolder;padding-left: 50px;}
+
+*{
+    margin: 0;padding:0;
+}
+body{
+    background-color: black;
+    color: whitesmoke;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+        nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 50px;
+    background-color: gray;
+}
+nav ul{
+    display: flex;
+    justify-content: center;
+}
+nav ul li{
+    list-style: none;
+    margin: 0 23px;
+}
+
+nav ul li a{color: black;font-weight: bolder;
+    text-decoration: none;
+    margin: 0 10px;
+}
+nav ul li a:hover{
+    color: lavender;font-size: 1.04rem;
+}
+.left{font-size:22px;margin-left: 15px;color: black;font-weight: bolder;padding-left: 50px;}

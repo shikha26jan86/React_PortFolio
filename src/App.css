@@ -36,3 +36,55 @@
     transform: rotate(360deg);
   }
 }
+.HeaderNav{
+  padding:20px; 
+  padding-Top:50px;
+  padding-Bottom:30px;
+  font-Size:22px;
+}
+.img1{
+  width:90%;
+  height:75vh;
+  background-image: url(C:\Users\Shikha\Desktop\web development 1\Projects\FrontendProjects\portfolio\src\components\photo.png);
+  background-size:cover;
+  background-position:center;
+  border-radius:50%;  
+  border:5px  solid white
+}
+.tab-titles{
+  display: flex;
+  margin: 20px 0 40px;
+}
+.tab-links{
+  margin-right: 50px;
+  font-size: 18px;
+  font-weight: 500;
+  cursor: pointer;
+  position: relative;
+}
+.tab-links::after{
+  content: '';
+  width: 0;
+  height: 3px;
+  background: #ff004f;
+  position: absolute;
+  left: 0;
+  bottom: -8px;
+  transition: 0.5s;
+}
+.tab-links.active-link::after{ 
+  width: 50%;                               
+}
+.tab-contents{
+  display: none;
+}
+.tab-contents.active-tab{
+  display: block
+}
+.ExperianceUl{
+  color: white;
+  font-size: 15px;
+}
+.skills{
+  font-size:20px;
+}
