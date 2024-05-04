@@ -15,7 +15,7 @@ const Header = () => {
                     <li><Link to="./Service">Service</Link>  </li>
                     <li><Link to="./Project">Project</Link>  </li>
                     <li><Link to="./contact">Contact Me</Link>  </li>
-                    <li><Link to="./Shikh Gadpayle(f).pdf">My Resume</Link>  </li>
+                    {/* <li><Link to="./Shikh Gadpayle(f).pdf">My Resume</Link>  </li> */}
                     <li><button className='btn btn-danger'><a href='images/Shikh Gadpayle(f).pdf' download >Download CV</a></button></li>
                     
                </ul>

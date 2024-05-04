@@ -23,7 +23,7 @@ const Contact = () => {
       </div>
          </div>
     <div className="col-lg-6" style={{paddingLeft: 180}}>
-      <input type="text" id="fname" name="fname" placeholder='Enter name' /><br /><br /><br />
+      <input  type="text" id="fname" name="fname" placeholder='Enter name' /><br /><br /><br />
       <input type="text" id="fname" name="fname"  placeholder='Enter email name'/><br /><br /><br />
       <textarea name="message" rows={7} cols={22}  placeholder='enter text' /><br />
       <button style={{marginTop: 40, padding: 7, backgroundColor: 'red', borderRadius: 10}}>Submit</button>
