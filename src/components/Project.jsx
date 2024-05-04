@@ -11,7 +11,7 @@ const Project = () => {
       <h2>https://github.com/shikha26jan86/Dmart</h2>
       </div><br></br>
     <div className="col-lg-6">
-      <img style={{height: 400, width: 700, paddingLeft: 90,marginLeft:"20px"}} src="https://tse3.mm.bing.net/th?id=OIP._leSgBC8nqAW9QqDW1WrHwHaFL&pid=Api&P=0&h=180" alt />
+      <img style={{height: 400, width: 700, paddingLeft: 90,marginLeft:"20px",marginBottom:"80px"}} src="https://tse3.mm.bing.net/th?id=OIP._leSgBC8nqAW9QqDW1WrHwHaFL&pid=Api&P=0&h=180" alt />
     </div>
   </div>
     </div>

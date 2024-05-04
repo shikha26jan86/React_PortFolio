@@ -10,26 +10,24 @@ const About = () => {
               />
         <div style={{marginTop:"50px",marginLeft:"100px"}}>
           <h1>Career Objective</h1>
-          <h5>
-            Full Stack Developer, with 2+ years of hands-on experience with a
-            passion for creating dynamic and responsive web applications.
+          <h5 >
+            Full Stack Developer, with 2+ years of hands-on experience.Passion for creating dynamic and responsive web applications.
             Proficient in front-end development technologies and frameworks,
             with a strong focus on delivering highquality, user-friendly
-            solutions. Skilled in collaborating with crossunctional teams to
-            achieve project goals and deadlines. Seeking a position in a
+            solutions. Seeking a position in a
             growth-oriented company where I can use my skills to the advantage
             of the company while having the scope to develop my skills. 
-          </h5><br></br><br></br>
-        <div>
-           <h1>Skills  </h1><h5>HTML, CSS, javascript,Node.js, React.js, MongoDb </h5><br></br><br></br>
+          </h5><div><br></br>  
+           <h1>Skills  </h1><h5>HTML , CSS , javascript , React.js ,Angular <br></br>Node.js, , MongoDb , SQL
+           </h5><br></br>
           <h1>Experience </h1>
            <h6>
            <ul>
                 <li> SCALEFULL TECHNOLOGIES, Pune (Full stack developer )</li>
                 <li> O TREE SOLUTIONS PVT. LTD - (ATHLETTO .COM)</li>
-                <li> ASSIMILATE  TECHNOLOGIES (BANER) PUNE- Angular Developer</li> <br></br>             
+                <li> ASSIMILATE  TECHNOLOGIES (BANER) PUNE- Angular Developer</li>              
               </ul>
-           </h6><br></br>
+           </h6>
           </div>
           <div>
             <h1> Education </h1>

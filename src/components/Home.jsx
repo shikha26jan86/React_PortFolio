@@ -62,7 +62,6 @@ const Home = () => {
             >
               <div className="verticle">
                 <div className="vertical_tital">
-                
                   <h6>
                     SCALEFULL TECHNOLOGIES<br></br>FULL stack developer
                     <br></br>( DEC 2023 – Present )
@@ -97,7 +96,7 @@ const Home = () => {
                   <ul className="ExperianceUl">
                     <li>
                       Worked as a UI developer, created and modified the UI
-                      interfaces ap per the requirements using ReactJs, HTML,
+                      interfaces as per the requirements using ReactJs, HTML,
                       CSS, Bootstrap.
                     </li>
                     <li>
@@ -108,7 +107,7 @@ const Home = () => {
                 </div>
               </div>
               <div className="verticle">
-                <div className="vertical_tital">
+                <div className="vertical_tital" >
                   ASSIMILATE TECHNOLOGIES (BANER) PUNE
                   - Angular Developer (MAR 2022 – JUN 2022)
                   <br />
@@ -190,7 +189,7 @@ const Home = () => {
         <section style={{marginTop:"300px", marginLeft:"100px"}}>
           <h1><strong> SKIILS</strong> </h1><br></br><br></br>
             <div className="skills">
-              Frontend  <br></br> HTML5 , CSS3 ,Bootstrap ,Angular , JavaScript , React
+              Frontend  <br></br> HTML5 , CSS3 ,Bootstrap ,Angular , JavaScript , React.js
             </div><br></br>
             <div className="skills">
               Backend   <br></br> JavaScript , NodeJS , SQL
